@@ -145,10 +145,10 @@ The **rise of microservice-based architectures** has also played a key role in m
 4️⃣ **Grafana Dashboard** 📊  
    - Visualizes Bitcoin & oil price trends, correlations, and predictions.
 
-![Simplified workflow](diagrams/arch2.drawio.png)
+![Simplified workflow](diagrams/arch2.drawio.png.jpg)
 
 
-![Workflow](diagrams/workflow.png)
+![Workflow](diagrams/workflow.png.jpg)
 
 ---
 
@@ -224,11 +224,11 @@ The **rise of microservice-based architectures** has also played a key role in m
 - **More historical data could enhance model accuracy** 📅
 - **Regularization techniques could stabilize predictions** 🔧
 
-![Model training loss](diagrams/figure6.png)
+![Model training loss](diagrams/figure6.jpeg.png)
 
-![Price prediction for btc](diagrams/price_prediction_btc.jpg)
+![Price prediction for btc](diagrams/price_prediction_btc.png)
 
-![Price prediction for oil](diagrams/price_prediction_oil.jpg)
+![Price prediction for oil](diagrams/price_prediction_oil.png)
 
 ---
 
