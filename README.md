@@ -247,5 +247,10 @@ The **rise of microservice-based architectures** has also played a key role in m
 
 ---
 
-🚀 **This project demonstrates how AI-driven financial analysis can enhance decision-making in economic markets!** 🌎📈
+
+## 6️⃣ References
+📌 For full references, please see the [Full PDF Document](https://github.com/mateineaga/Scientific-Paper-Summarization-using-RLHF-and-NER-Analysis/blob/main/Evaluating_scientific_paper_summarization_methods_using_multiple_metrics.pdf).
+
+---
+
 
